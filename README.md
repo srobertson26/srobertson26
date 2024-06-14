@@ -6,6 +6,6 @@
 - ⚡ Fun fact: I have driven cross-country twice. Once was to New York and the other time was to Georgia.
 
 <!---
-srobertson26/srobertson26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+srobertson26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
